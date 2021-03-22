@@ -8,7 +8,7 @@ def ncr(n, r):
     return numer // denom  
 n=int(input(print("Enter N:")))
 if n<=2:
-  print("Queston in constraint n>2")
+  print("Question in constraint n>2")
   exit()
 print("a={a1,a2,.....,an}")
 print()
